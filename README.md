@@ -10,7 +10,7 @@ This project is a GraphQL API for analyzing customer spending, product sales, an
 
 ```bash
 git clone https://github.com/piyush33/sales-analytics-api.git
-cd DelightTree
+cd sales-analytics-api
 ```
 
 ### 2. Install Dependencies
